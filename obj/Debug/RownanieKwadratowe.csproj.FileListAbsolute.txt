@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Moje rzeczy\Okienkowe programy\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\RownanieKwadratowe.exe.config
+C:\Users\User\Desktop\Moje rzeczy\Okienkowe programy\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\RownanieKwadratowe.exe
+C:\Users\User\Desktop\Moje rzeczy\Okienkowe programy\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\RownanieKwadratowe.pdb
+C:\Users\User\Desktop\Moje rzeczy\Okienkowe programy\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\RownanieKwadratowe.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Moje rzeczy\Okienkowe programy\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\RownanieKwadratowe.Form1.resources
+C:\Users\User\Desktop\Moje rzeczy\Okienkowe programy\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\RownanieKwadratowe.Properties.Resources.resources
+C:\Users\User\Desktop\Moje rzeczy\Okienkowe programy\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\RownanieKwadratowe.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Moje rzeczy\Okienkowe programy\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\RownanieKwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Moje rzeczy\Okienkowe programy\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\RownanieKwadratowe.exe
+C:\Users\User\Desktop\Moje rzeczy\Okienkowe programy\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\RownanieKwadratowe.pdb
